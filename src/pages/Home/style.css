@@ -2,7 +2,8 @@
   padding: 80px 0;
 }
 
-.hero .primaryBtn {
+.hero .primaryBtn,
+.hero .primaryBtn:hover {
   width: 196px;
   height: 62px;
 }
